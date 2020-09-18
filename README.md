@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning how to write a README on GitHub with AsciiDoc.
+I'm currently discovering what can be done with AsciiDoc.
 
 Useful references:
 
