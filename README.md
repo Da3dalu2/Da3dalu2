@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I'm currently learning how to write a README on GitHub with AsciiDoc.
+
+Useful references:
+
+[Cheatsheet](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74)
+
+[Asciidoctor User Manual](https://asciidoctor.org/docs/user-manual/#include-directive)
+
+[Quick reference](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
+
+[AsciiDoc FAQ (32)](https://asciidoc.org/faq.html#_is_it_possible_to_include_charts_in_asciidoc_documents)
+
