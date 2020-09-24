@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently discovering what can be done with AsciiDoc.
+I'm currently attending these courses:
 
-Useful references:
-
-[Cheatsheet](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74)
-
-[Asciidoctor User Manual](https://asciidoctor.org/docs/user-manual/#include-directive)
-
-[Quick reference](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
-
-[AsciiDoc FAQ (32)](https://asciidoc.org/faq.html#_is_it_possible_to_include_charts_in_asciidoc_documents)
-
+- Software engineering;
+- Web technologies;
+- Telecommunications network;
+- Operative research;
+- High performance computing;
+- Embedded systems and IoT;
+- Law and informatics.
