@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently attending these courses:
+I'm currently preparing to sustain examinations for these courses:
 
-- Software engineering;
+- Databases;
+- Numerical methods;
 - Web technologies;
-- Telecommunications network;
-- Operative research;
-- High performance computing;
-- Embedded systems and IoT;
-- Law and informatics.
+- High performance computing.
