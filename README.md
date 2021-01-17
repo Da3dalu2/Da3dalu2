@@ -19,5 +19,4 @@ I'm currently preparing to sustain examinations for these courses:
 
 - Databases;
 - Numerical methods;
-- Web technologies;
 - High performance computing.
