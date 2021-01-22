@@ -20,3 +20,5 @@ I'm currently preparing to sustain examinations for these courses:
 - Databases;
 - Numerical methods;
 - High performance computing.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact)](https://github.com/Da3dalu2)
