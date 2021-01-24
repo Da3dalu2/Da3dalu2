@@ -22,5 +22,5 @@ I'm currently preparing to sustain examinations for these courses:
 - High performance computing.
 
 <a href="https://github.com/Da3dalu2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Da3dalu2&hide=stars,issues,prs&show_icons=true" alt="Da3dalu2's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact&hide=kotlin,m,jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </a>
