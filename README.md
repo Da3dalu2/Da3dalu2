@@ -24,3 +24,5 @@ I'm currently preparing to sustain examinations for these courses:
 <a href="https://github.com/Da3dalu2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact&hide=kotlin,m,jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </a>
+
+The profile photo has been taken from [here](https://unsplash.com/photos/OVO8nK-7Rfs?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink).
