@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently preparing to sustain examinations for these courses:
-
-- Databases;
-- Numerical methods;
-- High performance computing.
+I'm currently searching for the state-of-the-art graph algorithms for computing centrality measures commonly used in the field of Social Network Analysis.
 
 <a href="https://github.com/Da3dalu2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact&hide=kotlin,m,jupyter%20notebook&langs_count=10" alt="Top Languages" />
