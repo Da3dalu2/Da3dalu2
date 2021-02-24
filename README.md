@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 I'm currently searching for the state-of-the-art graph algorithms for computing centrality measures commonly used in the field of Social Network Analysis.
 
+I'm also attending the following courses:
+
+- Data-Intensive applications programming
+- Systems Integration
+
 <a href="https://github.com/Da3dalu2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact&hide=kotlin,m,jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </a>
