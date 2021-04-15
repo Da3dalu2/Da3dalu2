@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently parallel algorithms on the GPU for computing centrality measures commonly used in the field of Social Network Analysis.
+I'm currently implementing parallel algorithms on the GPU for computing centrality measures commonly used in the field of Social Network Analysis.
 
 I'm also attending the following courses:
 
