@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Studying for the following exams:
+Studying for the following exam:
 
-- Systems Integration
 - Data-Intensive applications programming
 
 <a href="https://github.com/Da3dalu2">
