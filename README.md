@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Studying for the following exam:
 
-- Data-Intensive applications programming
+- Operative Research
 
 <a href="https://github.com/Da3dalu2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da3dalu2&layout=compact&hide=kotlin,m,jupyter%20notebook&langs_count=10" alt="Top Languages" />
